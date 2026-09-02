@@ -1,0 +1,18 @@
+ref,scope,category,emission_source,activity_data,unit,emission_factor,ef_unit,factor_source
+1.1,Scope 1,Stationary combustion,Natural gas — heating,480000,kWh,0.18254,kgCO2e/kWh,GHG Protocol - natural gas (gross CV)
+1.2,Scope 1,Mobile combustion,Company fleet — diesel,22000,litres,2.5109,kgCO2e/litre,GHG Protocol - diesel (avg biofuel blend)
+1.3,Scope 1,Mobile combustion,Company fleet — petrol,9500,litres,2.3151,kgCO2e/litre,GHG Protocol - petrol (avg biofuel blend)
+1.4,Scope 1,Fugitive emissions,Refrigerant top-up — R-410A,12,kg,2088,kgCO2e/kg (GWP100),IPCC AR5 - R-410A GWP 2088
+2.1,Scope 2,Purchased electricity,Purchased electricity — grid (location-based),780000,kWh,0.4233,kgCO2e/kWh,GHG Protocol - grid average residual mix
+2.2,Scope 2,Purchased heat,District heating / purchased steam,120000,kWh,0.1707,kgCO2e/kWh,GHG Protocol - district heat and steam
+Cat 1,Scope 3,Purchased goods & services,Purchased goods & services (spend-based),2400000,$ spend,0.25,kgCO2e/$,EEIO spend-based avg (services and supplies)
+Cat 2,Scope 3,Capital goods,"Capital goods (IT, equipment, fit-out)",350000,$ spend,0.3,kgCO2e/$,EEIO spend-based avg (capital goods)
+Cat 3,Scope 3,Fuel- & energy-related activities,Fuel- & energy-related (WTT + T&D losses),900000,kWh,0.045,kgCO2e/kWh,GHG Protocol - WTT and grid losses
+Cat 4,Scope 3,Upstream transportation & distribution,Upstream transport & distribution,120000,tonne-km,0.105,kgCO2e/t-km,GHG Protocol - road freight (HGV avg)
+Cat 5,Scope 3,Waste generated in operations,Waste generated in operations,45,tonnes,446,kgCO2e/tonne,GHG Protocol - mixed commercial waste
+Cat 6,Scope 3,Business travel,Business travel — air,1450000,passenger-km,0.158,kgCO2e/p-km,"GHG Protocol - air travel (avg haul, RF included)"
+Cat 6,Scope 3,Business travel,Business travel — rail,180000,passenger-km,0.035,kgCO2e/p-km,GHG Protocol - national rail
+Cat 6,Scope 3,Business travel,Hotel stays (business travel),1200,room-nights,10.4,kgCO2e/night,GHG Protocol - hotel stay avg
+Cat 7,Scope 3,Employee commuting,Employee commuting,880000,passenger-km,0.17,kgCO2e/p-km,GHG Protocol - avg car/transit mix
+Cat 7,Scope 3,Employee commuting,Remote / home working,44000,FTE-days,0.81,kgCO2e/day,GHG Protocol - homeworking (heat+power)
+Cat 8,Scope 3,Upstream leased assets,Water supply & treatment,6500,m3,0.49,kgCO2e/m3,GHG Protocol - water supply and treatment
