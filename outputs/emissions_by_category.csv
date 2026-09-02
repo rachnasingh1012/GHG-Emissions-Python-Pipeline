@@ -1,0 +1,14 @@
+scope,category,emissions_tco2e
+Scope 1,Stationary combustion,87.619
+Scope 1,Mobile combustion,77.233
+Scope 1,Fugitive emissions,25.056
+Scope 2,Purchased electricity,330.174
+Scope 2,Purchased heat,20.484
+Scope 3,Purchased goods & services,600.0
+Scope 3,Business travel,247.88
+Scope 3,Employee commuting,185.24
+Scope 3,Capital goods,105.0
+Scope 3,Fuel- & energy-related activities,40.5
+Scope 3,Waste generated in operations,20.07
+Scope 3,Upstream transportation & distribution,12.6
+Scope 3,Upstream leased assets,3.185
